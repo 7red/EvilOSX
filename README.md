@@ -28,6 +28,7 @@
 
 ---
 
+[Marco Generator](https://github.com/cedowens/EvilOSX_MacroGenerator) by Cedric Owens
 
 [Marco Generator](https://github.com/cedowens/EvilOSX_MacroGenerator) by Cedric Owens
 
