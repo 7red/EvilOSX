@@ -28,7 +28,8 @@
 
 ---
 
-[Marco Generator](https://github.com/cedowens/EvilOSX_MacroGenerator) by Cedric Owens
+[More details](https://null-byte.wonderhowto.com/how-to/dump-macos-users-chrome-passwords-with-evilosx-0180512/) by Cyber Security Labs
+
 
 [Marco Generator](https://github.com/cedowens/EvilOSX_MacroGenerator) by Cedric Owens
 
